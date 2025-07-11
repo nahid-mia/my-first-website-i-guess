@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.upore {
+  background: url("C:\Projects\B12A01-landing-launchpad\Assets\Hero-bg.png") no-repeat center center/cover;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
